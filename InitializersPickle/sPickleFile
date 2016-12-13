@@ -1,0 +1,283 @@
+(lp0
+(iDomain.Student
+student
+p1
+(dp2
+S'_studentID'
+p3
+I2
+sS'_name'
+p4
+S'Andrei Mihu'
+p5
+sba(iDomain.Student
+student
+p6
+(dp7
+g3
+I3
+sg4
+S'Andreea Dinu'
+p8
+sba(iDomain.Student
+student
+p9
+(dp10
+g3
+I4
+sg4
+S'Mihai Alexescu'
+p11
+sba(iDomain.Student
+student
+p12
+(dp13
+g3
+I5
+sg4
+S'Mihaela Opri'
+p14
+sba(iDomain.Student
+student
+p15
+(dp16
+g3
+I6
+sg4
+S'Ion Dinu '
+p17
+sba(iDomain.Student
+student
+p18
+(dp19
+g3
+I7
+sg4
+S'Ioana Eset'
+p20
+sba(iDomain.Student
+student
+p21
+(dp22
+g3
+I8
+sg4
+S'Dorin Juve'
+p23
+sba(iDomain.Student
+student
+p24
+(dp25
+g3
+I9
+sg4
+S'Dorina Popovici'
+p26
+sba(iDomain.Student
+student
+p27
+(dp28
+g3
+I10
+sg4
+S'Catalin Cui '
+p29
+sba(iDomain.Student
+student
+p30
+(dp31
+g3
+I11
+sg4
+S'Billy Parramore'
+p32
+sba(iDomain.Student
+student
+p33
+(dp34
+g3
+I12
+sg4
+S'Katy Kyker'
+p35
+sba(iDomain.Student
+student
+p36
+(dp37
+g3
+I13
+sg4
+S'Milagro Wisner'
+p38
+sba(iDomain.Student
+student
+p39
+(dp40
+g3
+I14
+sg4
+S'Elli Worthen'
+p41
+sba(iDomain.Student
+student
+p42
+(dp43
+g3
+I15
+sg4
+S'Carroll Polly'
+p44
+sba(iDomain.Student
+student
+p45
+(dp46
+g3
+I16
+sg4
+S'Hallie Diggins'
+p47
+sba(iDomain.Student
+student
+p48
+(dp49
+g3
+I17
+sg4
+S'Jeanene Hynson'
+p50
+sba(iDomain.Student
+student
+p51
+(dp52
+g3
+I18
+sg4
+S'Lenny Paulino'
+p53
+sba(iDomain.Student
+student
+p54
+(dp55
+g3
+I19
+sg4
+S'Xochitl Link'
+p56
+sba(iDomain.Student
+student
+p57
+(dp58
+g3
+I20
+sg4
+S'Tamar Tibbles'
+p59
+sba(iDomain.Student
+student
+p60
+(dp61
+g3
+I21
+sg4
+S'Jack Nicholson'
+p62
+sba(iDomain.Student
+student
+p63
+(dp64
+g3
+I22
+sg4
+S'Stan Veneziano'
+p65
+sba(iDomain.Student
+student
+p66
+(dp67
+g3
+I23
+sg4
+S'Marylyn Seligman'
+p68
+sba(iDomain.Student
+student
+p69
+(dp70
+g3
+I24
+sg4
+S'Sharita Sumler'
+p71
+sba(iDomain.Student
+student
+p72
+(dp73
+g3
+I25
+sg4
+S'Martha Loyd'
+p74
+sba(iDomain.Student
+student
+p75
+(dp76
+g3
+I26
+sg4
+S'Kathryne Alkire'
+p77
+sba(iDomain.Student
+student
+p78
+(dp79
+g3
+I27
+sg4
+S'Rudy Bridges'
+p80
+sba(iDomain.Student
+student
+p81
+(dp82
+g3
+I28
+sg4
+S'Sharon Mericle'
+p83
+sba(iDomain.Student
+student
+p84
+(dp85
+g3
+I29
+sg4
+S'Leeanna Motyka'
+p86
+sba(iDomain.Student
+student
+p87
+(dp88
+g3
+I30
+sg4
+S'Gwyneth Cullen'
+p89
+sba(iDomain.Student
+student
+p90
+(dp91
+g3
+I31
+sg4
+S'Jody Neufeld'
+p92
+sba(iDomain.Student
+student
+p93
+(dp94
+g3
+I32
+sg4
+S'Allan Michael'
+p95
+sba.
