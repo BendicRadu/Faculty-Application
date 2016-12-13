@@ -1,0 +1,6 @@
+repository = File
+students = C:\Users\user\Desktop\Uni\FP\Eclipse\Lab 5-7 Propper\Initializers\students
+disciplines = C:\Users\user\Desktop\Uni\FP\Eclipse\Lab 5-7 Propper\Initializers\disciplines
+enrollments = C:\Users\user\Desktop\Uni\FP\Eclipse\Lab 5-7 Propper\Initializers\enrollments
+grades = C:\Users\user\Desktop\Uni\FP\Eclipse\Lab 5-7 Propper\Initializers\grades
+ui = GUI
